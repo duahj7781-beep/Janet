@@ -1,6 +1,6 @@
 [Project]
-FileName=Project1ccc.dev
-Name=Project1
+FileName=Project2.c
+Name=Project2
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=Assignment1.c
+FileName=Assignment2.c
 CompileCpp=0
 Folder=
 Compile=1
